@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Файлы",
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }
