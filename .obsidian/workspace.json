@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "М1/атрбут.setter - сеттер для атрибута. Имя функции = имя атрибута.md",
+                "file": "Карта/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "атрбут.setter - сеттер для атрибута. Имя функции = имя атрибута"
+              "title": "Python"
             },
             "group": "acd5128c28bd5815"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "М1/атрбут.setter - сеттер для атрибута. Имя функции = имя атрибута.md",
+                "file": "Карта/Python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф атрбут.setter - сеттер для атрибута. Имя функции = имя атрибута"
+              "title": "Граф Python"
             },
             "group": "acd5128c28bd5815"
           }
@@ -231,8 +231,8 @@
   },
   "active": "e28f33e80b62a277",
   "lastOpenFiles": [
-    "Карта/Python.md",
     "М1/атрбут.setter - сеттер для атрибута. Имя функции = имя атрибута.md",
+    "Карта/Python.md",
     "Карта/ООП.md",
     "М1/Свойства - это круто. Мы можем легко добавить логику без изменения вызова.md",
     "М1/property - это гетер. Имя такое как и у атрибута..md",
