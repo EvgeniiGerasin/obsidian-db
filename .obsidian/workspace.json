@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "М1/Без названия.md",
+                "file": "Карта/Общее.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Общее"
             },
             "group": "bb21fafadfed0b39"
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "М1/Без названия.md",
+                "file": "Карта/Общее.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Без названия"
+              "title": "Граф Общее"
             },
             "group": "bb21fafadfed0b39"
           }
@@ -269,8 +269,8 @@
   },
   "active": "70282afb2289e384",
   "lastOpenFiles": [
+    "М1/Инвариант - то, что не меняется. Как разница в возрасте между братьями или родителями.md",
     "Карта/SQL.md",
-    "М1/Без названия.md",
     "Карта/Python.md",
     "Карта/Управление персоналом.md",
     "Карта/ООП.md",
