@@ -56,55 +56,10 @@
               },
               "icon": "lucide-file",
               "title": "Навыки тимлида. Podlodka подкаст"
-            },
-            "group": "bb21fafadfed0b39"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0d5944ab1de22706",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "203b12f2d060a124",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "М1/Навыки тимлида. Podlodka подкаст.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Граф Навыки тимлида. Podlodka подкаст"
-            },
-            "group": "bb21fafadfed0b39"
-          }
-        ]
       }
     ],
     "direction": "vertical"
