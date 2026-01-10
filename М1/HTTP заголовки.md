@@ -18,7 +18,9 @@
 
 3. Кеширование
 
-`Cache-Control` (public, private, `max-age=<int>`, no-cache)
+`Cache-Control` (public, private, `max-age=<int>`, no-cache, must-revalidate (когда устаревает age нужно переспросить у сервера)) - основной заголовок, который управляет кэширование.
+
+
 
 
 
