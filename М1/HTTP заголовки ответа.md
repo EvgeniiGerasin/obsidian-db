@@ -11,6 +11,6 @@
 ### Безопасность
 
 `Content-Security-Policy` - заголовок указывает какие источники контента можно загружать и выполнять. Защита от XSS-атак (внедрение вредоносного кода на страницу сайта)
-`X-Content-Type-Options: nosniff` - 
+`X-Content-Type-Options: nosniff` - предотвращает MIME-sniffing (jпределение типа данных игнорируя conten)
 
 
