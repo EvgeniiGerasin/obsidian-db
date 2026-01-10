@@ -18,7 +18,7 @@
 
 3. Кеширование
 
-`Cache-Control` (public, private, )
+`Cache-Control` (public, private, `max-age=<int>`, no-cache)
 
 
 
