@@ -3,7 +3,12 @@
 Можно разделить на типа:
 1. Авторизация и аутентификация
 
-Authorization 
-Cookie
+`Authorization `
+`Cookie`
 
-2/ 
+2.  Типы данных
+
+`Content-type`
+`Accept`
+`Accept-encoding`
+``
