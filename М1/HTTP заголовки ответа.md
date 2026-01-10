@@ -1,4 +1,7 @@
 [[HTTP]]
 
 
+### Кэширование
+
+`Cache-Control`
 
