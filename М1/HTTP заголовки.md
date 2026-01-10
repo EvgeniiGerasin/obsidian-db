@@ -18,7 +18,7 @@
 
 3. Кеширование
 
-
+`Cache-Control` (public, private, )
 
 
 
