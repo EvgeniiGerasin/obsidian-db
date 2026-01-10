@@ -10,6 +10,7 @@
 
 ### Безопасность
 
+`Content-Security-Policy` - 
 
 
 
