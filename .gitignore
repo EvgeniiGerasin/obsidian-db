@@ -1,0 +1,17 @@
+# Метаданные ОС
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Внутренняя корзина Obsidian
+.trash/
+
+# Файлы состояния интерфейса и кэша (главная причина конфликтов)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/copilot-index*.json
