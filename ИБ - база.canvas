@@ -64,13 +64,13 @@
 		{"id":"782488f1b2d2cd46","type":"text","text":"RMF (NIST Risk Management) ","x":360,"y":2030,"width":310,"height":80},
 		{"id":"78f5fe3410999006","type":"text","text":"System and Organizations Controls (SOC type 1, SOC type 2)","x":355,"y":2200,"width":405,"height":100},
 		{"id":"9b11b9dede2f208f","type":"text","text":"NIST Cybersecurity Framework\n\n(The National Institute of Standards and Technology)","x":380,"y":1566,"width":250,"height":172},
-		{"id":"ad6f90785a6229d3","x":-1040,"y":2170,"width":250,"height":60,"color":"4","type":"text","text":"Этика"},
-		{"id":"83006403614700dc","x":-1040,"y":2420,"width":250,"height":120,"type":"text","text":"Всегда следовать правилам организации и законам страны"},
+		{"id":"ad6f90785a6229d3","type":"text","text":"Этика","x":-1040,"y":2170,"width":250,"height":60,"color":"4"},
+		{"id":"83006403614700dc","type":"text","text":"Всегда следовать правилам организации и законам страны","x":-1040,"y":2420,"width":250,"height":120},
 		{"id":"8e9e9a6045456798","type":"text","text":"Инструменты","x":-2577,"y":2800,"width":250,"height":60,"color":"4"},
 		{"id":"f42b828f3a4fa711","type":"text","text":"SIEM tools\n(Security Information and Event Management)","x":-2577,"y":2940,"width":250,"height":140},
-		{"id":"cf7897566c8f04ed","x":-2577,"y":3200,"width":250,"height":240,"type":"text","text":"По сути своей - это логи, в которых содержится события в системе. SIEM собирают их и предоставляют специалисту для анализа"},
-		{"id":"01069e5b6547e894","x":-2980,"y":2980,"width":250,"height":100,"type":"text","text":"Playbook или описание как реагировать на инциденты"},
-		{"id":"117b97acf812473f","x":-2135,"y":2950,"width":250,"height":110,"type":"text","text":"Анализаторы сетевых протоколов (сниферы)"}
+		{"id":"cf7897566c8f04ed","type":"text","text":"По сути своей - это логи, в которых содержится события в системе. SIEM собирают их и предоставляют специалисту для анализа","x":-2577,"y":3200,"width":250,"height":240},
+		{"id":"01069e5b6547e894","type":"text","text":"Playbook или описание как реагировать на инциденты","x":-2980,"y":2980,"width":250,"height":100},
+		{"id":"117b97acf812473f","type":"text","text":"Анализаторы сетевых протоколов (сниферы)","x":-2135,"y":2950,"width":250,"height":110}
 	],
 	"edges":[
 		{"id":"52b6b9f12dc1eac3","fromNode":"370dcaf1731cde52","fromSide":"bottom","toNode":"316903e5f3615fba","toSide":"top"},
