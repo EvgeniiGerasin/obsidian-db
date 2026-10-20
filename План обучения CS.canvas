@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"e27e355394b2d964","type":"text","text":"База","x":-480,"y":-220,"width":250,"height":60,"color":"4"},
+		{"id":"6082af20127d5e66","type":"text","text":"# TryHackMe","x":-480,"y":-20,"width":250,"height":60},
+		{"id":"e9d733c3afb980d4","type":"text","text":"Практика","x":-40,"y":-220,"width":250,"height":60,"color":"6"},
+		{"id":"97c832eee31c0b95","type":"text","text":"# SOC Simulator","x":-480,"y":200,"width":250,"height":60},
+		{"id":"c38839e1685ecbbd","type":"text","text":"# Google Cybersecurity\n[[ИБ - база.canvas]]\n[[ИБ - управление рисками.canvas]]\n[[ИБ - сети и сетевая безопасность.canvas]]","x":-930,"y":200,"width":250,"height":400},
+		{"id":"524656771d1145e5","type":"text","text":"# Linux journey","x":-1040,"y":10,"width":250,"height":60},
+		{"id":"6bca486e04b6c4af","type":"text","text":"# OverTheWire Bandit","x":-1055,"y":-250,"width":335,"height":90},
+		{"id":"f8dc43ea07061054","type":"text","text":"# GRC (ISO 27001 и NIST)","x":-955,"y":-480,"width":470,"height":80},
+		{"id":"9b0753fa736c28d9","type":"text","text":"# LetsDefend","x":-120,"y":-480,"width":250,"height":60},
+		{"id":"a6e426a1c6a887c7","type":"text","text":"# CyberDefenders","x":280,"y":-400,"width":250,"height":60},
+		{"id":"04e01e80cb4368d0","type":"text","text":"# BLUE TEAM LABS","x":340,"y":-275,"width":250,"height":85},
+		{"id":"8827ba0647651c00","type":"text","text":"# CloudHynting Game","x":280,"y":-80,"width":440,"height":90,"color":"5"}
+	],
+	"edges":[
+		{"id":"d65f009e756c5d2c","fromNode":"e27e355394b2d964","fromSide":"bottom","toNode":"6082af20127d5e66","toSide":"top"},
+		{"id":"6db48587573ee2bb","fromNode":"e27e355394b2d964","fromSide":"bottom","toNode":"c38839e1685ecbbd","toSide":"top"},
+		{"id":"4546acf44b19ed95","fromNode":"6082af20127d5e66","fromSide":"bottom","toNode":"97c832eee31c0b95","toSide":"top"},
+		{"id":"5a7f41685b11b1e4","fromNode":"e9d733c3afb980d4","fromSide":"bottom","toNode":"97c832eee31c0b95","toSide":"right"},
+		{"id":"09e344246a510319","fromNode":"e27e355394b2d964","fromSide":"bottom","toNode":"524656771d1145e5","toSide":"top"},
+		{"id":"045a1201fa571347","fromNode":"e27e355394b2d964","fromSide":"bottom","toNode":"6bca486e04b6c4af","toSide":"right"},
+		{"id":"0c257492de0f8abe","fromNode":"e27e355394b2d964","fromSide":"top","toNode":"f8dc43ea07061054","toSide":"bottom"},
+		{"id":"67b9a17745358efa","fromNode":"e9d733c3afb980d4","fromSide":"top","toNode":"9b0753fa736c28d9","toSide":"bottom"},
+		{"id":"9459ec48857878ba","fromNode":"e9d733c3afb980d4","fromSide":"top","toNode":"a6e426a1c6a887c7","toSide":"left"},
+		{"id":"f312daa304ce9a67","fromNode":"e9d733c3afb980d4","fromSide":"right","toNode":"04e01e80cb4368d0","toSide":"left"},
+		{"id":"8576e9dd81c990d0","fromNode":"e9d733c3afb980d4","fromSide":"right","toNode":"8827ba0647651c00","toSide":"left"}
+	]
+}

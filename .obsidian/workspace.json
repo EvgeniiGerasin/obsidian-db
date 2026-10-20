@@ -48,63 +48,21 @@
             "id": "70282afb2289e384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "М1/HTTP заголовки ответа.md",
-                "mode": "source",
-                "source": false
+                "file": "ИБ - база.canvas",
+                "viewState": {
+                  "x": -895,
+                  "y": 1460,
+                  "zoom": -2.1909427827113954
+                }
               },
-              "icon": "lucide-file",
-              "title": "HTTP заголовки ответа"
-            },
-            "group": "677f9f878a8da964"
+              "icon": "lucide-layout-dashboard",
+              "title": "ИБ - база"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "c9ac446dfa8103ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36bcfb47851c20a4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "М1/HTTP заголовки ответа.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Граф HTTP заголовки ответа"
-            },
-            "group": "677f9f878a8da964"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -269,10 +227,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a28d17a43970832c",
+  "active": "70282afb2289e384",
   "lastOpenFiles": [
-    "Карта/HTTP.md",
+    "ИБ - Инструменты онлайн.md",
+    "Python. Logger.canvas",
+    "Pasted image 20260915225306.png",
+    "Pasted image 20260911220956.png",
+    "ИБ - база.canvas",
+    "План обучения CS.canvas",
+    "Основы ИБ.canvas",
     "М1/HTTP заголовки ответа.md",
+    "План ремонта.canvas",
+    "ИБ - управление рисками.canvas",
+    "ИБ - сети и сетевая безопасность.canvas",
+    "ИБ - активы, угрозы и уязвимости.md",
+    "Злость и гнев.canvas",
+    "Анализ письма.md",
+    "Карта/HTTP.md",
     "М1/HTTP заголовки запроса.md",
     "М1/Псевдозаголовки.md",
     "М1/Навыки тимлида. Podlodka подкаст.md",
@@ -293,10 +264,6 @@
     "М1/SQL Таблички связей это ER-диаграмма.md",
     "М1/SQL конкатенация.md",
     "М1/атрбут.setter - сеттер для атрибута. Имя функции = имя атрибута.md",
-    "М1/property - это гетер. Имя такое как и у атрибута..md",
-    "Карта/Мои мысли про новые проекты.md",
-    "М1/Аналитики должны активно помогать с задачами и перенаправлять их.md",
-    "М1/Добавлять в описание к задачам контекст. Зачем эта задача нужна, для кого и что затрагивает в приложении.md",
     "М1/Без названия",
     "Файлы/ne-teoretik-prakticeskii-kodeks-upravlenca.pdf",
     "Файлы/Pasted image 20251229115243.png",

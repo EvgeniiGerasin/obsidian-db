@@ -1,0 +1,62 @@
+{
+	"nodes":[
+		{"id":"823995e75e9c2be1","type":"text","text":"import logging \n\nlogging","x":-540,"y":-240,"width":250,"height":80},
+		{"id":"c57143d0536459da","type":"text","text":".debug(\"Текст сообщения\")\n.info()\n.error()\n.warning()\n.critical()","x":-540,"y":240,"width":250,"height":160},
+		{"id":"ef138bb91ff53cfc","type":"text","text":"Обработчик, который позволит контролировать уровень вывода\nStreamHandler()","x":-1020,"y":-70,"width":250,"height":160,"color":"4"},
+		{"id":"3bcaae1890c9f15a","type":"text","text":"setLevel(logging.INFO)","x":-1020,"y":160,"width":250,"height":60},
+		{"id":"e04f6dba9d976fb1","type":"text","text":"Их может быть много.\nНапример один обработчик отправляет сообщения уровня warning на почту админу, а другой обрабатывает все подряд. ","x":-1360,"y":-320,"width":250,"height":220},
+		{"id":"c72ad9a1dddfc5cd","type":"text","text":"formatter - формирует сообщение","x":-1540,"y":90,"width":250,"height":150,"color":"4"},
+		{"id":"62859b145467f66e","type":"text","text":"логгер - getLogger()","x":-540,"y":30,"width":250,"height":60,"color":"4"},
+		{"id":"e7bf18ae45d45164","type":"text","text":"import logging\n\nsetFormatter(logging.Formatter())","x":-1340,"y":320,"width":330,"height":160},
+		{"id":"26112d8400a7df1c","type":"text","text":"\"%{asctome}s | %(levelname) -8s | %(name)s | %(message)s\" \n\nПример задания формата вывода в logging.Formatter","x":-2020,"y":340,"width":540,"height":120},
+		{"id":"475423996ed75d6a","type":"text","text":"setLevel(logging.INFO)","x":-240,"y":160,"width":250,"height":60},
+		{"id":"6b8627efb65bc10a","type":"text","text":"setLevel(logging.INFO)","x":-240,"y":160,"width":250,"height":60},
+		{"id":"1c84e85caeef2d60","type":"text","text":"Не используй f-строки для форматирования. Они вычисляются даже если лог не будет вызван.","x":-1875,"y":90,"width":250,"height":150,"color":"1"},
+		{"id":"e7c47e18c6539f6b","type":"text","text":"Использовать лучше ленивое форматирование через %S\n\nlogger.debug(\"Сообщение %s\", function)","x":-2320,"y":90,"width":360,"height":150,"color":"5"},
+		{"id":"36b4bcf0a0c97859","type":"text","text":"Лучше всего не использовать динамические данные","x":-2060,"y":-100,"width":250,"height":110,"color":"2"},
+		{
+			"id":"aaa8f43580d7bc60",
+			"type":"text",
+			"text":"Start\n",
+			"styleAttributes":{
+				"shape":"circle",
+				"textAlign":"center",
+				"border":null
+			},
+			"x":-465,
+			"y":-400,
+			"width":100,
+			"height":80,
+			"color":"6"
+		}
+	],
+	"edges":[
+		{"id":"49b80cf08af3aba2","fromNode":"823995e75e9c2be1","fromSide":"bottom","toNode":"62859b145467f66e","toSide":"top"},
+		{"id":"cd02a5866306defe","fromNode":"62859b145467f66e","fromSide":"bottom","toNode":"c57143d0536459da","toSide":"top"},
+		{"id":"8d8076d605854c3b","fromNode":"ef138bb91ff53cfc","fromSide":"bottom","toNode":"3bcaae1890c9f15a","toSide":"top"},
+		{"id":"5f6836b4250b04ae","fromNode":"c72ad9a1dddfc5cd","fromSide":"right","toNode":"ef138bb91ff53cfc","toSide":"left","toEnd":"none"},
+		{"id":"38d4579e18b963eb","fromNode":"ef138bb91ff53cfc","fromSide":"left","toNode":"e04f6dba9d976fb1","toSide":"bottom"},
+		{"id":"d1fa3a6acfc5f803","fromNode":"823995e75e9c2be1","fromSide":"bottom","toNode":"ef138bb91ff53cfc","toSide":"right"},
+		{"id":"cfe749cb39efc16c","fromNode":"ef138bb91ff53cfc","fromSide":"left","toNode":"e7bf18ae45d45164","toSide":"top"},
+		{"id":"fb1fc7026148bf2c","fromNode":"c72ad9a1dddfc5cd","fromSide":"bottom","toNode":"e7bf18ae45d45164","toSide":"top"},
+		{"id":"2644fa57fbb73a25","fromNode":"e7bf18ae45d45164","fromSide":"left","toNode":"26112d8400a7df1c","toSide":"right"},
+		{"id":"4b80d1b77d2566f5","fromNode":"62859b145467f66e","fromSide":"right","toNode":"475423996ed75d6a","toSide":"top"},
+		{"id":"07eced4931f98761","fromNode":"1c84e85caeef2d60","fromSide":"bottom","toNode":"26112d8400a7df1c","toSide":"top"},
+		{"id":"cefc3e9a4f05bf03","fromNode":"e7c47e18c6539f6b","fromSide":"right","toNode":"1c84e85caeef2d60","toSide":"left"},
+		{"id":"e3af5f8775f71564","fromNode":"36b4bcf0a0c97859","fromSide":"left","toNode":"e7c47e18c6539f6b","toSide":"top"},
+		{"id":"9943b8e8b01f7983","fromNode":"36b4bcf0a0c97859","fromSide":"right","toNode":"1c84e85caeef2d60","toSide":"top"},
+		{
+			"id":"153c602ef3d96c43",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"aaa8f43580d7bc60",
+			"fromSide":"bottom",
+			"toNode":"823995e75e9c2be1",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
