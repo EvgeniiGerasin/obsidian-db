@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "51f9be226c3abfd3",
+        "id": "67b421b281d702cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e228acbc42eefc46",
+            "id": "bc6df8540bb0eaf6",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Python. Logger.canvas",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Локальный граф"
-            }
-          },
-          {
-            "id": "70282afb2289e384",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Python. Logger.canvas",
-                "viewState": {
-                  "x": -1155,
-                  "y": 40,
-                  "zoom": -1.977104030125942
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Python. Logger"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,8 +182,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "70282afb2289e384",
+  "active": "bc6df8540bb0eaf6",
   "lastOpenFiles": [
+    "Python. Logger.canvas",
     "Pasted image 20260915225306.png",
     "Pasted image 20260911220956.png",
     "План ремонта.canvas",
@@ -239,7 +195,6 @@
     "ИБ - активы, угрозы и уязвимости.md",
     "Злость и гнев.canvas",
     "Анализ письма.md",
-    "Python. Logger.canvas",
     "М1/Статические методы и атрибуты (класса) хранятся в памяти класса и не создают другие места для хранения при создании экземпляров.md",
     "Файлы/Проверка доступа к северу.md",
     "М1/Составить список со всеми лидами и их подчинёнными.md",
