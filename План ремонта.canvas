@@ -74,5 +74,9 @@
 		{"id":"3d7645305f67fff1","fromNode":"854e2b5e6ab70ed6","fromSide":"bottom","toNode":"814d8b9284da62e4","toSide":"top"},
 		{"id":"248e1343f96d4b5f","fromNode":"814d8b9284da62e4","fromSide":"bottom","toNode":"1e133d6a8953df7f","toSide":"top"},
 		{"id":"163c7ff83edd2d1e","fromNode":"859d808f8cc73dcd","fromSide":"bottom","toNode":"3c37376ba228f41e","toSide":"top"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
